@@ -1,2 +1,2 @@
-# Go_Example
+# Go项目
 Go练习项目
