@@ -70,3 +70,9 @@ v_name := value
 var b = 10
 c := 10
 ```
+
+## Go 常量
+常量定义格式
+```bash
+const identifier [type] = value
+```
